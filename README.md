@@ -1,4 +1,4 @@
-﻿<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+doraBighead+%F0%9F%91%8B;Founder+%40dora-exploreLab+%F0%9F%A7%AA;Building+Autonomous+AI+Agents+%F0%9F%9A%80;Architecting+Modern+PKM+Systems+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
@@ -49,8 +49,8 @@
 ### 📊 贡献动态与统计 (Contribution & Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="doraBighead GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wxk2378643343-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="doraBighead GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wxk2378643343-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
